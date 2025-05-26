@@ -37,7 +37,6 @@
 #### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
@@ -48,10 +47,6 @@
 ### 🔥 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Enzolorenzini&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enzolorenzini&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzolorenzini&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
