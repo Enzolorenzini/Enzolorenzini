@@ -62,5 +62,3 @@
 </p>
 
 ---
-
-✨ *Feel free to check out my repositories and reach out to collaborate!*
