@@ -46,7 +46,7 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Enzolorenzini&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzolorenzini&theme=tokyonight" alt="streak stats" height="160"/> />
 </p>
 
 ---
