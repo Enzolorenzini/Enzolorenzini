@@ -43,13 +43,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enzolorenzini&theme=tokyonight" alt="streak stats" height="160"/>
-</p>
-
----
-
 ### 📌 Pinned Repositories
 <p align="center">
   <a href="https://github.com/xavier-rognon/RIP-JO">
